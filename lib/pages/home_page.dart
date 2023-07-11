@@ -11,7 +11,7 @@ class HomePage extends StatelessWidget {
           elevation: 4,
         ),
         body: const Center(
-          child: Text("Hello World"),
+          child: Text("Dimuthu Maduranga"),
         ));
   }
 }
